@@ -47,4 +47,5 @@ This project was created to practice and demonstrate:
 
   
 ⚠️ Note
+
 The profile information, images, and contact details included in this project are sample content used for demonstration purposes and can be customized as needed.
